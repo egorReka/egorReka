@@ -1,10 +1,9 @@
-
-  <div id="header" (align="center" )>
+<div id="header" align="center">
     <h1>Hi there, I'm Egor!👋</h1>
     <h4>Frontend Developer</h4>
   </div>
 
-  <div id="social" (align="center" )>
+  <div id="social" align="center">
     <a href="https://t.me/egriv">
       <img src="https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white&style=for-the-badge"
         alt="telegram">
