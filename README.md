@@ -1,10 +1,10 @@
 
-  <div id="header" style="display: grid; justify-content: center;">
+  <div id="header" (align="center" )>
     <h1>Hi there, I'm Egor!👋</h1>
     <h4>Frontend Developer</h4>
   </div>
 
-  <div id="social" style="display: grid; justify-content: center;">
+  <div id="social" (align="center" )>
     <a href="https://t.me/egriv">
       <img src="https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white&style=for-the-badge"
         alt="telegram">
@@ -15,8 +15,8 @@
     </a>
   </div>
 
-  <h3>🛠 Languages and tools:</h3>
-  <div id="icons" style="display: flex; gap: 10px;">
+  <h3>:hammer_and_wrench: Languages and tools:</h3>
+  <div id="icons">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40"
       height="40" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40"
