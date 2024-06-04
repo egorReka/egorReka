@@ -6,11 +6,11 @@
 
 <p id="social" align="center">
   <a href="https://t.me/egorRe7">
-    <img src="./assets/telegram.png" width="24" height="24" alt="telegram">
+    <img src="./assets/telegram.svg" width="24" height="24" alt="telegram">
   </a>
   &#8287;&#8287;&#8287;&#8287;
   <a href="https://discordapp.com/users/1086168108575760445/">
-    <img src="./assets/discord.png" width="24" height="24" alt="discord">
+    <img src="./assets/discord.svg" width="24" height="24" alt="discord">
   </a>
 </p>
 
@@ -21,6 +21,7 @@
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css" />
   <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" alt="sass" />
   <img src="https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white" alt="less" />
+  <img src="https://img.shields.io/badge/BEM-%234285F4.svg?style=for-the-badge&logo=bem&logoColor=white" alt="BEM" />
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind" />
   <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="vite" />
   <img src="https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white" alt="gulp" />
